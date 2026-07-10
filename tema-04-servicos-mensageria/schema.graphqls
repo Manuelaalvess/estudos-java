@@ -1,0 +1,15 @@
+# Tema 4. Servicos de mensageria
+# Schema GraphQL: define exatamente os campos que o cliente pode pedir
+# Diferente de um endpoint REST fixo, aqui o cliente escolhe o formato da resposta
+
+type Pedido {
+    id: ID!
+    paciente: String!
+    convenio: String!
+    status: String!
+}
+
+type Query {
+    pedido(id: ID!): Pedido
+    pedidos: [Pedido!]!
+}
