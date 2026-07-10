@@ -1,6 +1,31 @@
 # estudos-java
 Exercícios do semestre de back-end
 
+## Mapa mental
+
+```mermaid
+mindmap
+  root((Back-end Java))
+    Tema 1 Formatos de Dados
+      JSON
+      XML
+      YAML
+    Tema 2 Programação Servidor
+      Servlet
+      JSP
+      JDBC
+    Tema 3 Persistência de Dados
+      PostgreSQL JPA
+      MongoDB Document
+    Tema 4 Mensageria
+      JMS
+      RabbitMQ
+      GraphQL
+    Tema 5 Web Services
+      SOAP
+      REST
+```
+
 ## Temas
 
 - [Tema 1. Formatos de transmissão de dados](tema-01-formatos-dados/FormatosDados.java)
