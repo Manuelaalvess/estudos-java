@@ -33,3 +33,7 @@ mindmap
 - [Tema 3. Persistência com Spring Data](tema-03-spring-data-postgresql-mongodb/README.md)
 - [Tema 4. Serviços de mensageria](tema-04-servicos-mensageria/README.md)
 - [Tema 5. Web Services em Java](tema-05-web-services-soap-rest/README.md)
+
+## Exercício prático
+
+- [Cadastro de Paciente numa Clínica (Temas 1 a 5 juntos)](exercicio-pratico/README.md)
